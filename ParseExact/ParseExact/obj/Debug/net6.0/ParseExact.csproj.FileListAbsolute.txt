@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\bin\Debug\net6.0\ParseExact.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\bin\Debug\net6.0\ParseExact.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\bin\Debug\net6.0\ParseExact.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\bin\Debug\net6.0\ParseExact.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\bin\Debug\net6.0\ParseExact.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\refint\ParseExact.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ParseExact.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ParseExact\ParseExact\obj\Debug\net6.0\ref\ParseExact.dll

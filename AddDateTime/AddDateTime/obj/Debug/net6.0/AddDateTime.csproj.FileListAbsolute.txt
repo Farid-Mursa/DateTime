@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\bin\Debug\net6.0\AddDateTime.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\bin\Debug\net6.0\AddDateTime.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\bin\Debug\net6.0\AddDateTime.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\bin\Debug\net6.0\AddDateTime.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\bin\Debug\net6.0\AddDateTime.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\refint\AddDateTime.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\AddDateTime.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\AddDateTime\AddDateTime\obj\Debug\net6.0\ref\AddDateTime.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseExact", "ParseExact\ParseExact.csproj", "{0FE1FC1C-DC27-4482-A981-77A46951BEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE1FC1C-DC27-4482-A981-77A46951BEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE1FC1C-DC27-4482-A981-77A46951BEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE1FC1C-DC27-4482-A981-77A46951BEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE1FC1C-DC27-4482-A981-77A46951BEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD319757-5B13-4BC1-86EB-71DDC4B8317F}
+	EndGlobalSection
+EndGlobal
